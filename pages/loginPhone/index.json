@@ -1,0 +1,9 @@
+{
+    "navigationBarTitleText": "",
+    "navigationStyle": "default",
+    "usingComponents": {
+        "comp": "../../comp",
+        "custom-wrapper": "../../custom-wrapper",
+        "t-captcha": "plugin://wxb302e0fc8ab232b4/t-captcha"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "navigationBarTitleText": "活动",
+    "navigationStyle": "default",
+    "disableScroll": true,
+    "usingComponents": {
+        "custom-wrapper": "../../custom-wrapper",
+        "comp": "../../comp"
+    }
+}

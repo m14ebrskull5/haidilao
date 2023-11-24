@@ -1,0 +1,129 @@
+.index-module__setmeal___z5YnR {
+    -ms-flex-negative: 0;
+    background: #ffedcf;
+    border-radius: 24rpx;
+    flex-shrink: 0;
+    height: 204rpx;
+    margin-right: 14rpx;
+    margin-top: 12rpx;
+    padding: 8rpx;
+    position: relative;
+    width: 336rpx;
+}
+
+.index-module__setmeal___z5YnR:first-child {
+    margin-left: 32rpx;
+}
+
+.index-module__setmeal___z5YnR:last-child {
+    margin-right: 0;
+}
+
+.index-module__setmeal___z5YnR .index-module__ctx___bgPrb {
+    -ms-flex-align: center;
+    -ms-flex-pack: center;
+    align-items: center;
+    background: #fffbf5;
+    border-radius: 20rpx;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: column;
+    height: 142rpx;
+    justify-content: center;
+    width: 320rpx;
+}
+
+.index-module__setmeal___z5YnR .index-module__title___XttPn {
+    color: #75391b;
+    font-size: 32rpx;
+    font-weight: 700;
+    line-height: 40rpx;
+    margin-bottom: 13rpx;
+}
+
+.index-module__setmeal___z5YnR .index-module__money_box___MJVYw {
+    height: 40rpx;
+    line-height: 40rpx;
+}
+
+.index-module__setmeal___z5YnR .index-module__money_unit___OlXbs {
+    color: #f03f35;
+    font-size: 24rpx;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.index-module__setmeal___z5YnR .index-module__money_num___Lw2Yz {
+    color: #f03f35;
+    font-size: 48rpx;
+    font-weight: bolder;
+    line-height: 48rpx;
+}
+
+.index-module__setmeal___z5YnR .index-module__money_decimals___gfXSt {
+    color: #f03f35;
+    font-size: 36rpx;
+    font-weight: bolder;
+}
+
+.index-module__setmeal___z5YnR .index-module__money_underline___nLCuA {
+    color: #ac846d;
+    font-size: 26rpx;
+    font-weight: bolder;
+    margin-left: 12rpx;
+    text-decoration: line-through;
+}
+
+.index-module__setmeal___z5YnR .index-module__tip___Fqyjp {
+    color: #75391b;
+    font-size: 24rpx;
+    line-height: 32rpx;
+    margin-top: 11rpx;
+    position: relative;
+    text-align: center;
+    z-index: 3;
+}
+
+.index-module__setmeal___z5YnR .index-module__card_on___UN1At {
+    height: 204rpx;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 336rpx;
+    z-index: 2;
+}
+
+.index-module__setmeal___z5YnR .index-module__slogan___kp0No {
+    -ms-flex-align: center;
+    align-items: center;
+    background: #fa382c;
+    border-radius: 16rpx 16rpx 16rpx 0;
+    color: #fef4f4;
+    display: -ms-flexbox;
+    display: flex;
+    font-size: 20rpx;
+    height: 32rpx;
+    left: 0;
+    padding: 0 16rpx;
+    position: absolute;
+    top: -10rpx;
+    z-index: 4;
+}
+
+.index-module__setmeal___z5YnR .index-module__tip_red_bg___XhFXH {
+    height: 44rpx;
+    width: 16rpx;
+}
+
+.index-module__setmeal___z5YnR .index-module__tip_text___anvob {
+    -ms-flex-align: center;
+    align-items: center;
+    background: #fa382c;
+    border-radius: 0 16rpx 16rpx 0;
+    color: #fef4f4;
+    display: -ms-flexbox;
+    display: flex;
+    font-size: 20rpx;
+    height: 32rpx;
+    padding-right: 16rpx;
+}

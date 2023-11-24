@@ -1,0 +1,9 @@
+{
+    "navigationBarTitleText": "选择城市",
+    "disableScroll": true,
+    "navigationStyle": "custom",
+    "usingComponents": {
+        "custom-wrapper": "../../custom-wrapper",
+        "comp": "../../comp"
+    }
+}

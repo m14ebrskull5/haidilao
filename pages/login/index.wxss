@@ -1,0 +1,28 @@
+.index-module__wrap___Dhgnj {
+    -ms-flex-align: center;
+    align-items: center;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    position: relative;
+}
+
+.index-module__login_banner___z0wDi {
+    height: 286rpx;
+    margin-bottom: 133rpx;
+    margin-top: 258rpx;
+    width: 540rpx;
+}
+
+.index-module__btn____P54F {
+    margin-top: 28rpx;
+}
+
+.index-module__login_phone___c0ZGj {
+    bottom: 64rpx;
+    color: #f33429;
+    font-size: 28rpx;
+    line-height: 40rpx;
+    position: absolute;
+}

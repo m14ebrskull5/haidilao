@@ -1,0 +1,86 @@
+.login-page {
+    background-color: #fff;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.login-page .login-header {
+    border-radius: 50%;
+    height: 148rpx;
+    margin: 64rpx 0 0 64rpx;
+    overflow: hidden;
+    width: 148rpx;
+}
+
+.login-page .user-name {
+    font-size: 40rpx;
+    line-height: 56rpx;
+    margin-bottom: 16rpx;
+    margin-top: 32rpx;
+}
+
+.login-page .mar-mid {
+    margin-left: 64rpx;
+}
+
+.login-page .form-item {
+    -ms-flex-pack: justify;
+    border-bottom: 2rpx solid #e7e7f1;
+    justify-content: space-between;
+    margin-left: 56rpx;
+    margin-right: 56rpx;
+    padding-bottom: 19rpx;
+}
+
+.login-page .form-phone {
+    margin-bottom: 77rpx;
+    margin-top: 134rpx;
+}
+
+.login-page .form-item-label {
+    -ms-flex-negative: 0;
+    color: #0a0a0a;
+    flex-shrink: 0;
+    font-size: 28rpx;
+    height: 50rpx;
+    line-height: 40rpx;
+    width: 144rpx;
+}
+
+.login-page .form-input {
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    font-size: 48rpx;
+    height: 50rpx;
+}
+
+.login-page .form-placeholder {
+    color: #999;
+    font-size: 28rpx;
+}
+
+.login-page .form-code {
+    -ms-flex-negative: 0;
+    color: #e2b883;
+    flex-shrink: 0;
+    font-size: 24rpx;
+    height: 50rpx;
+    width: 130rpx;
+}
+
+.login-page .form-code.disable {
+    color: #999;
+}
+
+.login-page .form-submit {
+    margin: 119rpx auto 0;
+    width: 486rpx;
+}
+
+.login-page .agreement {
+    bottom: 88rpx;
+    position: fixed;
+    width: 100%;
+}

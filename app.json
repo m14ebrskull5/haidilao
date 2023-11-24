@@ -1,0 +1,110 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/loginPhone/index",
+        "pages/joinActive/index",
+        "pages/my/index",
+        "pages/wxMemberWebView/index",
+        "pages/selectCity/index",
+        "pages/searchCity/index",
+        "pages/member/index",
+        "pages/login/index",
+        "pages/repastPreference/index",
+        "pages/memberInfo/index",
+        "pages/coupon/index",
+        "pages/unbindMobile/index",
+        "pages/systemUpgrade/index",
+        "pages/allResult/index",
+        "pages/webViewLogin/index",
+        "pages/allOrder/index",
+        "pages/privacyTips/index",
+        "pages/settingPage/index",
+        "pages/accountManagement/index",
+        "pages/accountCancellation/index",
+        "pages/servicesAndAgreements/index",
+        "pages/thirdPartyInformation/index",
+        "pages/settingPageWebview/index",
+        "pages/saveMoney/index",
+        "pages/saveMoneyOne/index"
+        
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "WeChat",
+        "navigationBarTextStyle": "black",
+        "backgroundColor": "#f7f7f7"
+    },
+    "tabBar": {
+        "color": "#999999",
+        "selectedColor": "#F62B27",
+        "borderStyle": "black",
+        "list": [
+            {
+                "text": "首页",
+                "pagePath": "pages/index/index",
+                "iconPath": "images/tab_bar_index_v2.png",
+                "selectedIconPath": "images/tab_bar_index_on_v2.png"
+            },
+            {
+                "text": "订单",
+                "pagePath": "pages/allOrder/index",
+                "iconPath": "images/tab_bar_order_v1.png",
+                "selectedIconPath": "images/tab_bar_order_on_v1.png"
+            },
+            {
+                "text": "会员",
+                "pagePath": "pages/member/index",
+                "iconPath": "images/tab_bar_member_v1.png",
+                "selectedIconPath": "images/tab_bar_member_on_v1.png"
+            },
+            {
+                "text": "省钱卡",
+                "pagePath": "pages/saveMoney/index",
+                "iconPath": "images/tab_bar_saveMoney_v2.png",
+                "selectedIconPath": "images/tab_bar_saveMoney_on_v2.png"
+            },
+            {
+                "text": "我的",
+                "pagePath": "pages/my/index",
+                "iconPath": "images/tab_bar_my_v2.png",
+                "selectedIconPath": "images/tab_bar_my_on_v2.png"
+            }
+        ]
+    },
+    "subPackages": [
+        {
+            "root": "walletPackage/",
+            "pages": []
+        },
+        {
+            "root": "diningPackage/",
+            "pages": []
+        },
+        {
+            "root": "activePackage/",
+            "pages": []
+        },
+        {
+            "root": "propertyPackage/",
+            "pages": []
+        },
+        {
+            "root": "invoicePackage/",
+            "pages": []
+        },
+        {
+            "root": "scanLoginPackage/",
+            "pages": []
+        },
+        {
+            "root": "staticPagePackage/",
+            "independent": true,
+            "pages": []
+        },
+        {
+            "root": "hicardPackage/",
+            "pages": []
+        }
+    ]
+}

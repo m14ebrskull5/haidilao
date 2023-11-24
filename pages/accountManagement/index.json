@@ -1,0 +1,7 @@
+{
+    "navigationBarTitleText": "账号与个人信息管理",
+    "usingComponents": {
+        "custom-wrapper": "../../custom-wrapper",
+        "comp": "../../comp"
+    }
+}

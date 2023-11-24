@@ -1,0 +1,68 @@
+.select-city-page {
+    background-color: #fff;
+}
+
+.select-city-page .top {
+    background-color: #fff;
+    height: 116rpx;
+    position: fixed;
+    width: 100%;
+    z-index: 9;
+}
+
+.select-city-page .search_box {
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: #f7f7f7;
+    border-radius: 64rpx;
+    display: -ms-flexbox;
+    display: flex;
+    height: 64rpx;
+    margin: 36rpx auto 16rpx;
+    width: 686rpx;
+}
+
+.select-city-page .search_icon {
+    height: 40rpx;
+    margin-left: 24rpx;
+    margin-right: 8rpx;
+    width: 40rpx;
+}
+
+.select-city-page .close_icon_wrap {
+    -ms-flex-align: center;
+    -ms-flex-pack: center;
+    align-items: center;
+    display: -ms-flexbox;
+    display: flex;
+    height: 64rpx;
+    justify-content: center;
+    width: 64rpx;
+}
+
+.select-city-page .close_icon {
+    height: 32rpx;
+    width: 32rpx;
+}
+
+.select-city-page .search_text {
+    color: #333;
+    flex: 1;
+    font-size: 28rpx;
+}
+
+.select-city-page .city {
+    height: 100vh;
+}
+
+.select-city-page .city_list {
+    padding-left: 32rpx;
+    padding-right: 32rpx;
+}
+
+.select-city-page .city_item {
+    border-bottom: 2rpx solid #f9f9f9;
+    color: #333;
+    font-size: 28rpx;
+    padding: 32rpx 0;
+}

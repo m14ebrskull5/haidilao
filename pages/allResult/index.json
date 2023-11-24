@@ -1,0 +1,7 @@
+{
+    "navigationBarTitleText": "海底捞",
+    "usingComponents": {
+        "custom-wrapper": "../../custom-wrapper",
+        "comp": "../../comp"
+    }
+}

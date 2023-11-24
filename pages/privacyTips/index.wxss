@@ -1,0 +1,21 @@
+.index-module__yinsi_alert_con___y4sGM {
+    color: #323233;
+    font-size: 24rpx;
+    line-height: 44rpx;
+}
+
+.index-module__yinsi_alert_href___DtOfo {
+    color: #f33429;
+    text-decoration: underline;
+}
+
+.index-module__yinsi_alert_bold___v1Fik {
+    color: #f33429;
+    font-weight: 700;
+}
+
+.index-module__confirm___wSann {
+    color: #fff;
+    font-size: 28rpx;
+    font-weight: 700;
+}

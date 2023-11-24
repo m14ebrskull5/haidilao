@@ -1,0 +1,195 @@
+.index-module__page_wrap___QCSmr {
+    background-color: #1c1c1c;
+    background-image: url(https://saas-web.hdlcdns.com/offline-activities-v3/giftbg_v2.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 100vh;
+    overflow-y: scroll;
+    padding-bottom: 128rpx;
+    position: relative;
+    width: 100vw;
+}
+
+.index-module__page_wrap___QCSmr.index-module__empty___V1xkR {
+    background-color: #fff;
+    background-image: none;
+}
+
+.index-module__coupon_wrap___fHZ2S {
+    background-image: url(https://saas-web.hdlcdns.com/offline-activities-v3/giftcoupon_v1.png);
+    background-repeat: no-repeat;
+    background-size: 694rpx 280rpx;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 428rpx;
+    min-height: 424rpx;
+    padding-top: 146rpx;
+    width: 694rpx;
+}
+
+.index-module__coupon_main___f52fn {
+    background-color: #040403;
+    border: 2rpx solid #696457;
+    border-radius: 0 0 24rpx 24rpx;
+    border-top: none;
+    padding: 0 24rpx 24rpx;
+    width: 100%;
+}
+
+.index-module__coupon___GRyOz {
+    background: #222;
+    border-radius: 24rpx;
+    box-shadow: inset 0 4rpx 8rpx 0 rgba(0,0,0,.4);
+    min-height: 254rpx;
+    padding: 0 32rpx;
+    width: 646rpx;
+}
+
+.index-module__coupon_top___WvIX6 {
+    border-bottom: 2rpx dashed #606060;
+    display: -ms-flexbox;
+    display: flex;
+    height: 162rpx;
+    position: relative;
+    width: 100%;
+}
+
+.index-module__coupon_icon___aXPha {
+    height: 160rpx;
+    position: absolute;
+    right: -50rpx;
+    top: -26rpx;
+    width: 160rpx;
+    z-index: 1;
+}
+
+.index-module__coupon_icon___aXPha.index-module__end___MXmdD {
+    right: -30rpx;
+    top: 0;
+}
+
+.index-module__coupon_top_main___WpzIf {
+    display: -ms-flexbox;
+    display: flex;
+    height: 162rpx;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+}
+
+.index-module__coupon_top_left___U4CPr {
+    -ms-flex-negative: 0;
+    -ms-flex-align: center;
+    align-items: center;
+    color: #ffdfa3;
+    flex-shrink: 0;
+    width: 128rpx;
+}
+
+.index-module__coupon_top_left___U4CPr,.index-module__coupon_top_right___BL_xd {
+    -ms-flex-pack: center;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.index-module__coupon_top_right___BL_xd {
+    padding: 0 24rpx;
+}
+
+.index-module__coupon_name___jx1Xc {
+    color: #fff;
+    font-size: 24rpx;
+    font-weight: bolder;
+    line-height: 28rpx;
+}
+
+.index-module__coupon_goods___YwdJ7 {
+    color: #999;
+    font-size: 20rpx;
+    line-height: 24rpx;
+    margin-top: 8rpx;
+}
+
+.index-module__coupon_bottom___O5YsP {
+    min-height: 90rpx;
+}
+
+.index-module__coupon_time_rule___DkAWX {
+    -ms-flex-pack: justify;
+    height: 90rpx;
+    justify-content: space-between;
+}
+
+.index-module__coupon_time_rule___DkAWX,.index-module__ticket_rule_btn_wrap___vgL6n {
+    -ms-flex-align: center;
+    align-items: center;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.index-module__ticket_rule_btn_wrap___vgL6n {
+    color: #b3b3b3;
+    font-size: 20rpx;
+    height: 28rpx;
+    line-height: 20rpx;
+}
+
+.index-module__ticket_rule_icon___OzRfv {
+    height: 28rpx;
+    margin-left: 8rpx;
+    transition: transform .3s;
+    transition: transform .3s,-webkit-transform .3s;
+    width: 28rpx;
+}
+
+.index-module__ticket_rule_icon___OzRfv.index-module__rotate___mHJoi {
+    transform: rotate(180deg);
+}
+
+.index-module__coupon_time___KCkS5 {
+    background-color: initial;
+    border-radius: 4rpx;
+    color: #fff;
+    font-size: 20rpx;
+    font-weight: 700;
+    height: 32rpx;
+    line-height: 20rpx;
+    margin-left: 8rpx;
+    padding: 0 6rpx;
+}
+
+.index-module__btns_wrap___QlOIh,.index-module__coupon_time___KCkS5 {
+    -ms-flex-align: center;
+    align-items: center;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.index-module__btns_wrap___QlOIh {
+    bottom: 0;
+    flex-direction: column;
+    left: 0;
+    position: fixed;
+    width: 100%;
+}
+
+.index-module__btns___iizDS {
+    -ms-flex-align: center;
+    -ms-flex-pack: center;
+    align-items: center;
+    background: #ffdfa3;
+    border-radius: 44rpx;
+    color: #000;
+    display: -ms-flexbox;
+    display: flex;
+    font-size: 32rpx;
+    font-weight: 700;
+    height: 88rpx;
+    justify-content: center;
+    margin-bottom: 20rpx;
+    width: 686rpx;
+}

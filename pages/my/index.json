@@ -1,0 +1,9 @@
+{
+    "navigationBarTitleText": "",
+    "navigationStyle": "custom",
+    "disableScroll": false,
+    "usingComponents": {
+        "custom-wrapper": "../../custom-wrapper",
+        "comp": "../../comp"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "navigationBarTitleText": "注销账号须知",
+    "usingComponents": {
+        "custom-wrapper": "../../custom-wrapper",
+        "comp": "../../comp"
+    }
+}
